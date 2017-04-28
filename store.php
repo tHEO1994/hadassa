@@ -8,7 +8,7 @@ require_once('includes/menu.inc');
 <div class="container">
   <div class="row pad-t">
     <ol class="breadcrumb">
-      <li><a href="index,php">Home</a></li>
+      <li><a href="index.php">Home</a></li>
       <li class="active"><?php echo $page_title;?></li>
     </ol>
   </div>
