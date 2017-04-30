@@ -1,5 +1,5 @@
 <?php
-$page_title = "Workshop";
+$page_title = "Product details";
 require_once('includes/header.inc');
 // require_once('includes/top-menu.inc');
 require_once('includes/menu.inc');
